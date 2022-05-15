@@ -1,2 +1,3 @@
-# springboot
-spring boot project-1
+# springboot jwt demo project
+1. Run on Postman 
+2. In progress - integration of open API(Swagger)
